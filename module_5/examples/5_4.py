@@ -13,4 +13,3 @@ if year < 2018 or speed_count < 24:
     print('Не соответствует критериям')
 else:
     print('Подходит')
-
