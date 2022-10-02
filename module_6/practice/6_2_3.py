@@ -13,4 +13,3 @@ while bank <= 500000:
     bank += cash
 print('Необходимая сумма накоплена!')
 print('Накоплено:', bank)
-
